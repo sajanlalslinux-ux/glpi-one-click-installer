@@ -32,7 +32,7 @@ sudo ./glpi-agent-installer.sh
 
 The installer will ask you a few simple questions:
 
-1. **GLPI Server URL** - Your GLPI server address (e.g., `https://10.31.5.171/`)
+1. **GLPI Server URL** - Your GLPI server address 
 2. **Computer Name** - How this computer should appear in GLPI
 3. **Update Interval** - How often to send updates (default: 5 minutes)
 4. **Tag** - Group identifier (e.g., `production`, `office`, `servers`)
